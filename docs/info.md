@@ -13,7 +13,7 @@ Prueba y Error
 
 ## How to test
 
-Explain how to use your project
+Ejecutar
 
 ## External hardware
 
